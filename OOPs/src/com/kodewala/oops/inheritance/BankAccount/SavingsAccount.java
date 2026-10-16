@@ -17,5 +17,6 @@ public class SavingsAccount extends BankAccount {
 		super.displayDetails();
 		System.out.println("Interest Rate: "+interestRate+ "%");
 		System.out.println("Annual Interest: "+calculateInterest());
+		System.out.println("Total Amount: "+(getBalance()+calculateInterest()));
 	}
 }
