@@ -1,7 +1,7 @@
 package com.kodewala.oops.inheritance;
 
 class Employee {
-	String name = "Rahul";
+	String name = "Rahul";Send us your ideaSend us your idea
 	String address = "Kolkata";
 	private String empCode = "HJFK1515";
 
@@ -16,7 +16,6 @@ class Manager extends Employee {
 		System.out.println(address);
 		markIn(address);
 	}
-
 }
 
 public class Organization {
