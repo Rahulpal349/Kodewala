@@ -1,7 +1,7 @@
 package com.kodewala.oops.inheritance;
 
 class Employee {
-	String name = "Rahul";Send us your ideaSend us your idea
+	String name = "Rahul";
 	String address = "Kolkata";
 	private String empCode = "HJFK1515";
 
